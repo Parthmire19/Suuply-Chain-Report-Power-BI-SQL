@@ -26,4 +26,11 @@ For more detailed explanation watch the video presentation.
 
  ## Dashboard
 
+ ![Frame 25 (1)](https://github.com/Parthmire19/Suuply-Chain-Report-Power-BI-SQL/assets/96012606/c9df8154-0a68-43f6-ba35-a48164437454)
+
+ ![Frame 26 (1)](https://github.com/Parthmire19/Suuply-Chain-Report-Power-BI-SQL/assets/96012606/0b94eb78-8bcc-4f9c-b1cd-0e3a66380fd3)
+
  ![Frame 29](https://github.com/Parthmire19/Suuply-Chain-Report-Power-BI-SQL/assets/96012606/49789073-131e-45c9-a363-27b15da2a48d)
+
+ ![Frame 28](https://github.com/Parthmire19/Suuply-Chain-Report-Power-BI-SQL/assets/96012606/dd109de6-ec4a-442c-b99a-5a834fd7766f)
+
